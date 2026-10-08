@@ -8,21 +8,26 @@
 
 ## 内容概览
 
-收录 2020-02 至 2023-07 的学习笔记，共 **144 篇**（另有 6 篇草稿未发布）。
+收录 2020-02 至 2023-07 的学习笔记，共 **143 篇**（另有 6 篇草稿未发布）。
+
+分类按**主题**划分，每篇只归一类；**标签**记录具体技术栈和材料来源（课程、平台、题库）。标签共 167 个，每篇 2–4 个。
 
 | 分类 | 篇数 |
 | --- | ---: |
-| Front-End Development | 35 |
-| 待分类 | 27 |
-| Java | 23 |
-| 算法与数据结构 | 17 |
-| Data Science and Analytics | 15 |
-| C/C++ | 13 |
-| Artificial Intelligence | 7 |
-| Computer Science | 7 |
-| **合计** | **144** |
+| 前端开发 | 37 |
+| 数据结构与算法 | 23 |
+| 后端开发 | 21 |
+| 数据分析 | 17 |
+| 编程语言 | 11 |
+| 计算机基础 | 8 |
+| 工具与运维 | 8 |
+| 人工智能 | 7 |
+| 通识与随笔 | 4 |
+| 数学基础 | 4 |
+| 数据库 | 3 |
+| **合计** | **143** |
 
-标签：`LeetCode` · `IBM Data Science` · `ChatUI` · `D2L` · `2023-ML`
+常用标签：`Java`(22) · `freeCodeCamp`(17) · `CSS`(15) · `LeetCode`(13) · `代码随想录`(13) · `React`(11) · `ChatUI`(10)
 
 站点功能：分类 / 标签 / 归档、站内搜索、文章目录（TOC）、暗黑模式、Pjax 无刷新跳转、Atom 订阅、Valine 评论、MathJax 公式、代码高亮、图片灯箱、404 页面。
 
@@ -38,8 +43,9 @@
 ```
 .
 ├── .github/workflows/pages.yml   # 构建 + 部署到 GitHub Pages
+├── scripts/custom.js             # 站点级样式/脚本注入，见「排版与样式」
 ├── source/                       # 站点内容
-│   ├── _posts/                   # 文章（144 篇）
+│   ├── _posts/                   # 文章（143 篇）
 │   ├── _drafts/                  # 草稿，不会发布
 │   ├── about/  projects/  ...    # 独立页面
 │   ├── img/  pdf/                # 配图与附件
@@ -49,6 +55,15 @@
 ├── package.json / package-lock.json
 └── scaffolds/                    # 新建文章的模板
 ```
+
+## 排版与样式
+
+- **字体**：中文优先的字体栈，首选华为鸿蒙字体 `HarmonyOS Sans SC`，逐级回退到 `PingFang SC` → `Hiragino Sans GB` → `Microsoft YaHei` → `Noto Sans CJK SC`；代码字体栈同样带中文回退。
+  刻意不挂 Web 字体：完整中文字体动辄 5–10MB，会明显拖慢移动端加载。因此**华为设备上直接就是鸿蒙字体，其他设备回退到系统自带中文黑体**。如果要让所有设备统一成鸿蒙字体，需要先按站点实际用到的字符做子集化再引入。
+- **字号**：在 `_config.volantis.yml` 的 `custom_css.fontsize`，目前 root 16px、h1 1.75rem、h2 1.5rem、h3 1.25rem、h4 1.125rem、代码 .875rem。注意主题默认值比这更小，往大改很容易让标题喧宾夺主（导航栏 logo 用的就是 h3 的字号）。
+- **移动端**：markdown 表格会被渲染成 `<div class="table-container">`，而主题的滚动规则写的是 `.md .table`，两边对不上——宽表格没有滚动容器，会被文章的 `overflow-x: hidden` 裁掉且无法滑动。`scripts/custom.js` 补上了滚动容器，并处理了图片宽度、长串换行和窄屏下的字号；它同时改掉了主题写死的 `maximum-scale=1`，恢复安卓端的双指缩放。
+- **改样式只能改 `scripts/custom.js`**。主题是 npm 依赖，`npm ci` 每次构建都会重装，直接改 `node_modules/hexo-theme-volantis` 里的文件会在下次部署时丢失。
+- `/css/style.css` 不带版本号且缓存 4 小时，改完样式后老访客可能需要强刷一次（或 Purge Cloudflare 缓存）才能看到新样式。
 
 ## 本地预览
 
