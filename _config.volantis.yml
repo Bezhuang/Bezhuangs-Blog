@@ -714,34 +714,30 @@ custom_css:
         searchbar: 8px
         button: 4px
     fontsize:
-        root: 18px
-        h1: 3.5rem # 不推荐用在文章中
-        h2: 3rem
-        h3: 2.5rem
-        h4: 2rem
-        h5: 1.25rem
-        h6: 1rem
-        list: .9375rem
-        meta: .875rem
-        code: 1rem
-        footnote: .78125rem
+        root: 16px
+        h1: 1.75rem # 28px
+        h2: 1.5rem # 24px，二级标题（带下划线）
+        h3: 1.25rem # 20px
+        h4: 1.125rem # 18px
+        h5: 1rem # 16px
+        h6: 1rem # 16px
+        list: .9375rem # 15px
+        meta: .875rem # 14px
+        code: .875rem # 14px（正文代码与代码块）
+        footnote: .78125rem # 12.5px
+    # 中文优先：首选华为鸿蒙字体（HarmonyOS Sans），逐级回退到各平台自带中文黑体。
+    # 不写 name/url，主题就不会再输出 src 为空的 @font-face 声明。
     fontfamily:
         logofont:
-            fontfamily: '"TsukushiARoundGothic", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-            name: "TsukushiARoundGothic"
-            url: #https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts@21.2.19/TsukushiARoundGothic/TsukushiAMaruGothic.ttc
+            fontfamily: '"HarmonyOS Sans SC", "HarmonyOS Sans", "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif'
             weight: normal
             style: normal
         bodyfont:
-            fontfamily: '"STKaiti", "楷体","楷体_GB2312", "Varela Round", "Ubuntu", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-            name: "STKaiti"
-            url: #https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts@21.2.19/Ubuntu/Ubuntu-Regular.ttf
+            fontfamily: '"HarmonyOS Sans SC", "HarmonyOS Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif'
             weight: normal
             style: normal
         codefont:
-            fontfamily: "Space Mono, Menlo, UbuntuMono, Monaco"
-            name: "Space Mono"
-            url: #https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts@21.2.19/Monaco/Monaco.ttf
+            fontfamily: '"JetBrains Mono", "Fira Code", "Cascadia Code", "Space Mono", Menlo, Consolas, "HarmonyOS Sans SC", "PingFang SC", "Microsoft YaHei", monospace'
             weight: normal
             style: normal
 ############################### Custom css ############################### > end
