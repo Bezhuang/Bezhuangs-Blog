@@ -9,7 +9,7 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Intro-2-DA.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Intro-2-DA.png)
 
 ### Modern Data Ecosystem
 

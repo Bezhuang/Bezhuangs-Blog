@@ -9,9 +9,9 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-DA&Visualization-foundation.png)
+![](https://hexo.bezhuang.cn/img/Coursera-DA&Visualization-foundation.png)
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Data-Visualization&Dashboards.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Data-Visualization&Dashboards.png)
 
 ### Introduction to Charts
 

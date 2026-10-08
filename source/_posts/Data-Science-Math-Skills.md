@@ -10,7 +10,7 @@ mathjax: true
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-DSMS.png)
+![](https://hexo.bezhuang.cn/img/Coursera-DSMS.png)
 
 ### 1. Sets
 

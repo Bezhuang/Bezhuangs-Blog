@@ -9,7 +9,7 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Tools-for-Data-Science.png)
+![](https://hexo.bezhuang.cn/img/Tools-for-Data-Science.png)
 
 ### Languages of Data Science
 

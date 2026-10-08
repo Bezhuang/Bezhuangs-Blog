@@ -10,7 +10,7 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Data-Analysis-with-py.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Data-Analysis-with-py.png)
 
 ### Importing Datasets
 

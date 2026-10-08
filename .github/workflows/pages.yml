@@ -1,0 +1,61 @@
+# Build the Hexo site and publish it to GitHub Pages (hexo.bezhuang.cn)
+name: Build and Deploy Hexo Blog
+
+on:
+  # Rebuild and redeploy whenever the source branch changes
+  push:
+    branches: ["master"]
+  # Allow a manual run from the Actions tab
+  workflow_dispatch:
+
+# Permissions required by the GitHub Pages deployment actions
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never run two Pages deployments at the same time. In-progress deployments
+# are left alone so a production deploy is never cancelled mid-flight.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+
+      # hexo clean drops the stale public/ and db.json committed in this repo,
+      # so the artifact always matches the current source.
+      - name: Build site
+        run: npx hexo clean && npx hexo generate
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

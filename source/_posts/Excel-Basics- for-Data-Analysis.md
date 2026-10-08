@@ -9,7 +9,7 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Excel-Basics.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Excel-Basics.png)
 
 ### Introduction to Spreadsheets for Data Analysis
 

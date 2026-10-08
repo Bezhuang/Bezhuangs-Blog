@@ -14,13 +14,13 @@ references:
 
 ### 一、Maven 概述
 
-![maven01](https://blog.zhuangzhihao.top/img/maven01.png)
+![maven01](https://hexo.bezhuang.cn/img/maven01.png)
 
 Maven 是专门用于管理和构建 Java 项目的工具，n，可以对 Java 项目进行自动化的构建和依赖管理。它提供了一套标准化的项目结构，提供了一套标准化的构建流程（编译，测试，打包，发布……），提供了一套依赖管理机制。
 
 标准化的项目结构：每一个开发工具（IDE）都有自己不同的项目结构，它们互相之间不通用。在 Eclipse 中创建的目录，无法在 IDEA 中进行使用，这就造成了很大的不方便，而 Maven 提供了一套标准化的项目结构，所有的 IDE 使用 Maven 构建的项目完全一样，所以 IDE 创建的 Maven 项目可以通用。
 
-![maven02](https://blog.zhuangzhihao.top/img/maven02.png)
+![maven02](https://hexo.bezhuang.cn/img/maven02.png)
 
 标准化的构建流程：开发了一套系统，代码需要进行编译、测试、打包、发布，这些操作如果需要反复进行就显得特别麻烦，而 Maven 提供了一套简单的命令来完成项目构建。
 

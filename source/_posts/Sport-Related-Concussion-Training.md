@@ -9,7 +9,7 @@ categories: 待分类
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/michigan-sport-related-concussion-training-certificate.png)
+![](https://hexo.bezhuang.cn/img/michigan-sport-related-concussion-training-certificate.png)
 
 ### Identifying a Concussion
 

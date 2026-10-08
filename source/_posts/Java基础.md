@@ -509,7 +509,7 @@ references:
 
 #### UML 类图
 
-![](https://blog.zhuangzhihao.top/img/UML类图.png)
+![](https://hexo.bezhuang.cn/img/UML类图.png)
 
 + `+` 表示 public 类型，`-` 表示 private 类型，`#` 表示 protected 类型
 

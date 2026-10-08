@@ -9,7 +9,7 @@ categories: 待分类
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Marketing-Analytics.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Marketing-Analytics.png)
 
 ### 1. Marketing Analytics
 

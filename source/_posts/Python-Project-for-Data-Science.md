@@ -9,7 +9,7 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Python-Project4DS.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Python-Project4DS.png)
 
 ### Web Scraping
 

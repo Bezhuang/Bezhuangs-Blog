@@ -20,7 +20,7 @@ AJAX 的作用有以下两方面：
 
    如下图，浏览器发送请求 servlet，servlet 调用完业务逻辑层后将数据直接响应回给浏览器页面，页面使用 HTML 来进行数据展示：
 
-<img src="https://blog.zhuangzhihao.top/img/AJAX01.png" alt="AJAX01" style="zoom:70%;" />
+<img src="https://hexo.bezhuang.cn/img/AJAX01.png" alt="AJAX01" style="zoom:70%;" />
 
 2. 异步交互：可以在不重新加载整个页面的情况下，与服务器交换数据并更新部分网页的技术，如：搜索联想、用户名是否可用校验，等等…
 
@@ -28,11 +28,11 @@ AJAX 的作用有以下两方面：
 
 同步发送请求过程：浏览器页面在发送请求给服务器，在服务器处理请求的过程中，浏览器页面不能做其他的操作。只能等到服务器响应结束后才能，浏览器页面才能继续做其他的操作。
 
-<img src="https://blog.zhuangzhihao.top/img/AJAX03.png" alt="AJAX03" style="zoom:80%;" />
+<img src="https://hexo.bezhuang.cn/img/AJAX03.png" alt="AJAX03" style="zoom:80%;" />
 
 异步发送请求过程：浏览器页面发送请求给服务器，在服务器处理请求的过程中，浏览器页面还可以做其他的操作。
 
-<img src="https://blog.zhuangzhihao.top/img/AJAX04.png" alt="AJAX04" style="zoom:80%;" />
+<img src="https://hexo.bezhuang.cn/img/AJAX04.png" alt="AJAX04" style="zoom:80%;" />
 
 ### 三、AJAX 快速入门
 
@@ -382,7 +382,7 @@ js 提供的 `JSON` 对象我们只需要了解一下即可。因为 `axios` 会
 
 以 json 格式的数据进行前后端交互，前端发送请求时，如果是复杂的数据就会以 json 提交给后端，而后端如果需要响应一些复杂的数据时，也需要以 json 格式将数据响应回给浏览器。
 
-<img src="https://blog.zhuangzhihao.top/img/AJAX02.png" alt="AJAX02" style="zoom:70%;" />
+<img src="https://hexo.bezhuang.cn/img/AJAX02.png" alt="AJAX02" style="zoom:70%;" />
 
 在后端我们就需要重点学习以下两部分操作：
 

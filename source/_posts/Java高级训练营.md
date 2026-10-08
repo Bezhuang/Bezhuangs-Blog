@@ -12,7 +12,7 @@ references:
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Java高级训练营.png)
+![](https://hexo.bezhuang.cn/img/Java高级训练营.png)
 
 ### 微服务架构设计与实践
 

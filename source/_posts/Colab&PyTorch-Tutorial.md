@@ -214,7 +214,7 @@ torch.cuda.is_available()
 
 ####  Gradient Calculation
 
-![](https://blog.zhuangzhihao.top/img/Pytorch01.png)
+![](https://hexo.bezhuang.cn/img/Pytorch01.png)
 
 #### Training & Testing Neural Networks
 

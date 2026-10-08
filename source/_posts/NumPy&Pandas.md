@@ -834,7 +834,7 @@ titanic.head()
 titanic[['Pclass', 'Survived', 'Age']].groupby(['Pclass', 'Survived']).median()
 ```
 
-![](https://blog.zhuangzhihao.top/img/pandas.png)
+![](https://hexo.bezhuang.cn/img/pandas.png)
 
 使用 `agg` 可以完成很多统计量的计算：
 

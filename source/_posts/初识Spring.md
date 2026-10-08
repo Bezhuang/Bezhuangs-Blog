@@ -22,7 +22,7 @@ Spring Framework 诞生于 2002 年，成型于 2003 年，最早的作者为 Ro
 
 Spring Framework 用于构建企业级应用的轻量级一站式解决方案，设计理念：力争让选择无处不在，体现海纳百川的精神，保持向后兼容性，专注 API 设计，追求严苛的代码质量。
 
-![](https://blog.zhuangzhihao.top/img/spring01.png)
+![](https://hexo.bezhuang.cn/img/spring01.png)
 
 Spring Boot 是快速构建基于 Spring 的应用程序，旨在简化 Spring 应用的初始搭建和开发过程。进可开箱即用，退可按需改动，提供各种非功能特性，不用生成代码，没有 XML 配置。
 

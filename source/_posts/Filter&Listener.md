@@ -52,7 +52,7 @@ references:
 
 #### Filter 执行流程
 
-<img src="https://blog.zhuangzhihao.top/img/filter01.png" alt="filter01" style="zoom:70%;" />
+<img src="https://hexo.bezhuang.cn/img/filter01.png" alt="filter01" style="zoom:70%;" />
 
 ```mermaid
 graph LR
@@ -74,13 +74,13 @@ graph LR
 
 过滤器链是指在一个 Web 应用，可以配置多个过滤器，这多个过滤器称为过滤器链。注解配置 Filter 的优先级是按照过滤器类名（字符串）的自然先后排序。
 
-<img src="https://blog.zhuangzhihao.top/img/filter02.png" alt="filter02" style="zoom:70%;" />
+<img src="https://hexo.bezhuang.cn/img/filter02.png" alt="filter02" style="zoom:70%;" />
 
 #### 需求实现
 
 访问服务器资源时，需要先进行登录验证，如果没有登录，则自动跳转到登录页面。只需要写一个 `Filter` ，在该过滤器中进行登陆状态校验即可。而在该 `Filter` 中逻辑如下：
 
-<img src="https://blog.zhuangzhihao.top/img/filter03.png" alt="filter03" style="zoom:70%;" />
+<img src="https://hexo.bezhuang.cn/img/filter03.png" alt="filter03" style="zoom:70%;" />
 
 ```java
 @WebFilter("/*")
@@ -141,7 +141,7 @@ public class LoginFilter implements Filter {
 
 JavaWeb 提供了8个监听器：
 
-<img src="https://blog.zhuangzhihao.top/img/listener01.png" alt="listener01" style="zoom:80%;" />
+<img src="https://hexo.bezhuang.cn/img/listener01.png" alt="listener01" style="zoom:80%;" />
 
 #### `ServletContextListener` 监听器
 

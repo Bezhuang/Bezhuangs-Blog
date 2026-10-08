@@ -14,7 +14,7 @@ references:
 
 ### 一、CSS box model
 
-![](https://blog.zhuangzhihao.top/img/diagram-3.png)
+![](https://hexo.bezhuang.cn/img/diagram-3.png)
 
 ### 二、重点 CSS 代码
 

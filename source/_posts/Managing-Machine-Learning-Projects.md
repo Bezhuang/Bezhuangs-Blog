@@ -9,7 +9,7 @@ categories: Artificial Intelligence
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Managing-Machine-Learning-Projects.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Managing-Machine-Learning-Projects.png)
 
 ### 1. What is Machine Learning ?
 

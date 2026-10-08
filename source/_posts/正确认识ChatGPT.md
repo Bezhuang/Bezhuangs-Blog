@@ -20,7 +20,7 @@ references:
 
 ChatGPT 真正在做的事情是文字接龙，可以把它理解成一个函数，输入一些东西就输出一些东西。输入一个句子，输出的是接下来的一个词汇出现的几率，然后从这个几率分布中做取样，所以它每次产生的答案是有随机性的。
 
-![](https://blog.zhuangzhihao.top/img/ChatGPT01.png)
+![](https://hexo.bezhuang.cn/img/ChatGPT01.png)
 
 这个函数非常复杂，可能有 1700 亿个以上的参数。作为对比，$f(x) = a x + b$ 有两个参数。
 
@@ -38,7 +38,7 @@ GPT = Generative Pre-trained Transformer。
 
 实际上，网络上的每一段文字，都能形成成对的问答，可以无痛制造成对资料。
 
-![](https://blog.zhuangzhihao.top/img/ChatGPT02.png)
+![](https://hexo.bezhuang.cn/img/ChatGPT02.png)
 
 在没有人类老师指导的情况下，学习大量网络上的数据，此时称之为预训练（自督导式学习），在多种语言上做预训练后，只要教某一个语言的某一个任务，自动学会其他语言的同样任务。
 

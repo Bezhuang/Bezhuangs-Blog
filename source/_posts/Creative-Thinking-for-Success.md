@@ -9,7 +9,7 @@ categories: 待分类
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/creative-thinking.png)
+![](https://hexo.bezhuang.cn/img/creative-thinking.png)
 
 ### 1. Principle of Creativity
 

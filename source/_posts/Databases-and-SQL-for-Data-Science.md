@@ -9,7 +9,7 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Databases&SQL4Data-Science.png)
+![](https://hexo.bezhuang.cn/img/Databases&SQL4Data-Science.png)
 
 ### Introduction to Databases
 

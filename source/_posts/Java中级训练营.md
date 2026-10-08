@@ -12,7 +12,7 @@ references:
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top//img/Java第二期训练营.png)
+![](https://hexo.bezhuang.cn//img/Java第二期训练营.png)
 
 ### Java Spring 企业级开发平台
 

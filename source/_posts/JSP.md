@@ -38,7 +38,7 @@ JSP 作用：简化开发，避免了在 Servlet 中直接输出 HTML 标签。
 
 1.   创建一个 maven 的 web 项目，项目结构如下：
 
-![](https://blog.zhuangzhihao.top/img/jsp01.jpg)
+![](https://hexo.bezhuang.cn/img/jsp01.jpg)
 
 `pom.xml` 文件内容如下：
 
@@ -425,7 +425,7 @@ MVC 是一种分层开发的模式，其中：
 
 * C：Controller，控制器，处理请求，调用模型和视图
 
-<img src="https://blog.zhuangzhihao.top/img/jsp02.jpg" alt="jsp02.jpg" style="zoom:70%;" />
+<img src="https://hexo.bezhuang.cn/img/jsp02.jpg" alt="jsp02.jpg" style="zoom:70%;" />
 
 控制器（serlvlet）用来接收浏览器发送过来的请求，控制器调用模型（JavaBean）来获取数据，比如从数据库查询数据；控制器获取到数据后再交由视图（JSP）进行数据展示。
 
@@ -441,7 +441,7 @@ MVC 的优点：
 
 三层架构是将我们的项目分成了三个层面，分别是 `表现层`、`业务逻辑层`、`数据访问层`。
 
-<img src="https://blog.zhuangzhihao.top/img/jsp03.png" alt="jsp03.png" style="zoom:60%;" />
+<img src="https://hexo.bezhuang.cn/img/jsp03.png" alt="jsp03.png" style="zoom:60%;" />
 
 * 数据访问层：对数据库的 CRUD 基本操作。
 * 业务逻辑层：对业务逻辑进行封装，组合数据访问层层中基本功能，形成复杂的业务逻辑功能。例如 `注册业务功能` ，我们会先调用 `数据访问层` 的 `selectByName()` 方法判断该用户名是否存在，如果不存在再调用 `数据访问层` 的 `insert()` 方法进行数据的添加操作。
@@ -457,7 +457,7 @@ MVC 的优点：
 
 #### MVC 和 三层架构
 
-<img src="https://blog.zhuangzhihao.top/img/jsp04.png" alt="jsp04.png" style="zoom:60%;" />
+<img src="https://hexo.bezhuang.cn/img/jsp04.png" alt="jsp04.png" style="zoom:60%;" />
 
  `MVC 模式` 中的 C（控制器）和 V（视图）就是 `三层架构` 中的表现层，而 `MVC 模式` 中的 M（模型）就是 `三层架构` 中的 业务逻辑层 和 数据访问层。
 

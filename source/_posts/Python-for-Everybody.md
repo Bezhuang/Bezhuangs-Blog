@@ -12,7 +12,7 @@ references:
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-py4e.png)
+![](https://hexo.bezhuang.cn/img/Coursera-py4e.png)
 
 ### Chapter 1
 

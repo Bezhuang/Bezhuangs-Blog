@@ -12,7 +12,7 @@ valine:
 
 ---
 
-{% image https://blog.zhuangzhihao.top/img/about.jpg, width=300px, alt=庄之皓，Bezhuang %}
+{% image https://hexo.bezhuang.cn/img/about.jpg, width=300px, alt=庄之皓，Bezhuang %}
 
 ---
 

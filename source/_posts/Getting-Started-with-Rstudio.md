@@ -9,7 +9,7 @@ categories: 待分类
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Getting-Started-with-Rstudio.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Getting-Started-with-Rstudio.png)
 
 ### 1. Install R and Get started with RStudio
 

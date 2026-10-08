@@ -9,7 +9,7 @@ categories: Java
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Java第一期训练营.png)
+![](https://hexo.bezhuang.cn/img/Java第一期训练营.png)
 
 ### Java知识点
 

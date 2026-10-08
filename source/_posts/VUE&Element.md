@@ -18,13 +18,13 @@ Vue 基于 MVVM（Model-View-ViewModel）思想，实现数据的双向绑定，
 
 要了解 `MVVM` 思想，必须先聊聊 `MVC` 思想，如下就是 `MVC` 思想图解：
 
-<img src="https://blog.zhuangzhihao.top/img/vue01.png" alt="vue01" style="zoom:70%;" />
+<img src="https://hexo.bezhuang.cn/img/vue01.png" alt="vue01" style="zoom:70%;" />
 
 C 就是 JavaScript 代码，M 就是数据，而 V 是页面上展示的内容，`MVC` 思想是没法进行双向绑定的。双向绑定是指当数据模型数据发生变化时，页面展示的会随之发生变化，而如果表单数据发生变化，绑定的模型数据也随之发生变化。
 
 接下来我们聊聊 `MVVM` 思想，如下是三个组件图解：
 
-<img src="https://blog.zhuangzhihao.top/img/vue02.png" alt="vue02" style="zoom:80%;" />
+<img src="https://hexo.bezhuang.cn/img/vue02.png" alt="vue02" style="zoom:80%;" />
 
 图中的 `Model` 就是我们的数据，`View` 是视图，也就是页面标签，用户可以通过浏览器看到的内容；`Model` 和 `View` 是通过 `ViewModel` 对象进行双向绑定的，而 `ViewModel` 对象是 `Vue` 提供的。
 
@@ -395,7 +395,7 @@ new Vue({
 
 下图是 Vue 官网提供的从创建 Vue 到效果 Vue 对象的整个过程及各个阶段对应的钩子函数：
 
-<img src="https://blog.zhuangzhihao.top/img/vue03.png" alt="vue03" style="zoom:80%;" />
+<img src="https://hexo.bezhuang.cn/img/vue03.png" alt="vue03" style="zoom:80%;" />
 
 钩子方法我们只关注 `mounted` 就行了。
 

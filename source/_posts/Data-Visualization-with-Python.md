@@ -9,7 +9,7 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Data-Visualization-with-Py.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Data-Visualization-with-Py.png)
 
 ### Introduction to Data Visualization Tools
 

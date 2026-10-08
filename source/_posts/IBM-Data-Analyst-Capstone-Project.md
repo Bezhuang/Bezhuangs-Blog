@@ -9,9 +9,9 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/IBM-Data-Analyst.png)
+![](https://hexo.bezhuang.cn/img/IBM-Data-Analyst.png)
 
-![](https://blog.zhuangzhihao.top/img/Coursera-Data-Analyst-Capstone-Project.png)
+![](https://hexo.bezhuang.cn/img/Coursera-Data-Analyst-Capstone-Project.png)
 
 ### Data Collection
 

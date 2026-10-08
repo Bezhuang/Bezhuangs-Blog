@@ -9,7 +9,7 @@ categories: Java
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Accenture-Coding-Virtual-Experience.png)
+![](https://hexo.bezhuang.cn/img/Accenture-Coding-Virtual-Experience.png)
 
 ### Task 1: Object Oriented Programming
 

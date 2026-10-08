@@ -16,7 +16,7 @@ references:
 
 传统 Java 项目中，业务层需要调用数据层的方法，就需要在业务层 new 数据层的对象，如果数据层的实现类发生变化，那么业务层的代码也需要跟着改变，发生变更后，都需要进行编译打包和重部署，耦合度偏高。
 
-![](https://blog.zhuangzhihao.top/img/spring02.png)
+![](https://hexo.bezhuang.cn/img/spring02.png)
 
 针对这个问题，Spring 就提出了一个解决方案：使用对象时，在程序中不要主动使用 new 产生对象，转换为由外部提供对象。
 
@@ -355,7 +355,7 @@ Spring 的第三种 bean 的创建方式：实例工厂实例化。
 
 bean 生命周期是 bean 对象从创建到销毁的整体过程。bean 生命周期控制的是在 bean 创建后到销毁前做一些事情。
 
-![](https://blog.zhuangzhihao.top/img/spring03.png)
+![](https://hexo.bezhuang.cn/img/spring03.png)
 
 Spring 中对 bean 生命周期控制提供了两种方式：
 

@@ -9,9 +9,9 @@ categories: Data Science and Analytics
 
 <!--more-->
 
-![](https://blog.zhuangzhihao.top/img/Data-Science-Methodology.png)
+![](https://hexo.bezhuang.cn/img/Data-Science-Methodology.png)
 
-![](https://blog.zhuangzhihao.top/img/Introduction-to-DS.png)
+![](https://hexo.bezhuang.cn/img/Introduction-to-DS.png)
 
 ### Data Science Methodologies
 
