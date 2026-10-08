@@ -3,3 +3,9 @@
 Thumbs.db
 *.log
 .deploy*/
+
+# 构建产物与本地缓存：由 .github/workflows/pages.yml 每次运行重新生成，
+# 依赖由 npm ci 依据 package-lock.json 安装，不要提交
+public/
+node_modules/
+db.json
