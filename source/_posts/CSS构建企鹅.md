@@ -1,11 +1,11 @@
 ---
 title: 通过构建企鹅来学习 CSS 变换
 date: 2022-06-18
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/2022/responsive-web-design
+categories: 前端开发
+tags: [CSS, 变换, freeCodeCamp]
 ---
 
 > freeCodeCamp 响应式网页设计的认证课程第十四章。你可以转换 HTML 元素以创建吸引读者眼球的吸引人的设计，使用变换来旋转元素、缩放它们等等。在通过构建企鹅来学习 CSS 变换的课程中，构建一只企鹅，使用 CSS 变换来定位企鹅的各个部分并调整其大小、创建背景并为你的作品设置动画。以下为我在学习和实战练习过程中所做的笔记，可供参考。

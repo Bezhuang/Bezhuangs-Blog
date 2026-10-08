@@ -1,11 +1,11 @@
 ---
 title: ECMAScript 6 标准
 date: 2022-06-22
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+categories: 前端开发
+tags: [JavaScript, ES6]
 ---
 
 > freeCodeCamp JavaScript 算法和数据结构第二章。ECMAScript（ES）是 JavaScript 的标准。因为所有主流浏览器都遵循此规范，所以 ECMAScript 和 JavaScript 是可以互换的。JavaScript 在不断迭代，每年都会发布新功能。2015 年发布的 ES6（ECMAScript6）为该语言添加了许多强大的新功能，在 ES6 点课程中，学习这些新特性，包括箭头函数、解构、类、promise 和模块。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -404,4 +404,3 @@ myPromise.catch(error => {
 	console.log(error);
 });
 ```
-

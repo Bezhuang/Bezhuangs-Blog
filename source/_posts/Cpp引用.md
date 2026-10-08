@@ -1,13 +1,13 @@
 ---
 title: C++ 的引用
 date: 2022-06-06
-tags: []
-categories: C/C++
 references:
   - title: 跟“龙哥”学C语言编程
     url: https://weread.qq.com/web/reader/1bf323f071f02f351bf2985
   - title: 菜鸟教程
     url: https://www.runoob.com/cplusplus/
+categories: 编程语言
+tags: [C++, 引用]
 ---
 
 > 严老师的数据结构和王道数据结构都是用的 C 语言语法，但是额外使用了 C++的引用。引用变量是一个别名，也就是说，它是某个已存在变量的另一个名字。一旦把引用初始化为某个变量，就可以使用该引用名称或变量名称来指向变量。相对于 C 指针来说，C++ 引用会便捷许多。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -106,4 +106,3 @@ int main()
   	modify_pointer(p)
 }
 ```
-

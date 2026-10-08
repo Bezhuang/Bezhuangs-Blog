@@ -1,11 +1,11 @@
 ---
 title: Learn Bitcoin & Ethereum
 date: 2022-11-19
-tags: []
-categories: 待分类
 references:
   - title: One Month Bitcoin
     url: https://onemonth.com/courses/bitcoin
+categories: 计算机基础
+tags: [区块链, 加密货币]
 ---
 
 > This course provided by [One Month](https://onemonth.com) is intended to be an introduction for us to understand how to get started with Bitcoin, Blockchain, Altcoins, Ethereum, and much more. Giving us the ability to speak confidently with friends and co-workers, and be able to answer that most frequently asked question: "Should I buy Bitcoin?" The following are the notes I took during this course.

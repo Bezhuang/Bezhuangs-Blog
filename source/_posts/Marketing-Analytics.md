@@ -1,8 +1,8 @@
 ---
 title: Marketing Analytics
 date: 2020-06-22
-tags: []
-categories: 待分类
+categories: 数据分析
+tags: [IBM Data Analyst, 营销分析]
 ---
 
 > Marketing analytics enables marketers to measure, manage and analyze marketing performance to maximize its effectiveness and optimize return on investment (ROI). Beyond the obvious sales and lead generation applications, offers profound insights into customer preferences and trends, which can be further utilized for future marketing and business decisions. The Marketing Analytics course is provided by UNIVERSITY OF VIRGINIA. The following are the notes I took during this course.
@@ -132,4 +132,3 @@ Statistical significance & Economic significance
 2. Place
 3. Price
 4. Promotion
-

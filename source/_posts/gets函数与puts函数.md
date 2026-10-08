@@ -1,11 +1,11 @@
 ---
 title: C 语言 gets 函数与 puts 函数
 date: 2022-05-03
-tags: []
-categories: C/C++
 references:
   - title: 跟“龙哥”学C语言编程
     url: https://weread.qq.com/web/reader/1bf323f071f02f351bf2985
+categories: 编程语言
+tags: [C, 字符串]
 ---
 
 > C 语言标准输入 scanf 在通过 `%s` 读取字符串时遇到空格就认为读取结束，这样没办法把一行带有空格的字符串存入到一个字符数组中。所以当需要输入的字符串中含有空格时，我们需要使用 gets 函数进行读取，使用 puts 函数进行输出。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -122,4 +122,3 @@ int main()
   return 0；
 }
 ```
-

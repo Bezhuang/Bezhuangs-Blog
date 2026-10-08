@@ -1,11 +1,11 @@
 ---
 title: Thymeleaf 快速入门
 date: 2023-03-01
-tags: []
-categories: Java
 references:
   - title: 模板引擎Thymeleaf快速入门
     url: https://www.bilibili.com/video/BV1qy4y117qi
+categories: 后端开发
+tags: [Java, Thymeleaf, 模板引擎]
 ---
 
 > 在之前我们学习的都是 SpringBoot + Vue 或者 React 的前后端分离的项目，但是一些公司还是会使用一些混合模板开发的项目，甚至还要维护一些 Jsp 的老项目，其中就有 SpringBoot 官方推荐的模板引擎 Thymeleaf，通过在静态 HTML 嵌入标签属性，浏览器可以直接打开模板文件。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -364,4 +364,3 @@ public String basic(Model model){
 <!-- 2017-07-12 00:37:25 -->
 <p th:text="${#dates.format(now, 'yyyy-MM-dd HH:mm:ss')}"></p>
 ```
-

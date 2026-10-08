@@ -1,11 +1,11 @@
 ---
 title: Python for everybody
 date: 2020-05-14
-tags: []
-categories: 待分类
 references: 
   - title: Python学习-PY4E作业
     url: https://blog.csdn.net/u012348774/article/details/78106407
+categories: 编程语言
+tags: [Python, Coursera]
 ---
 
 > The Python for Everybody Specialization provided by UNIVERSITY OF MICHIGAN introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. Python for Everybody is a completely open-source course, you can find all the notes and textbooks on its official [website](https://www.py4e.com/), so this note will only contain my solution to all post-lesson exercises in this course.

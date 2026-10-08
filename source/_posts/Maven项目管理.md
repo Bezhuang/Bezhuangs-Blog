@@ -1,11 +1,11 @@
 ---
 title: Maven 项目管理知识总结
 date: 2022-03-14
-tags: []
-categories: Java
 references: 
   - title: Java web从入门到企业实战
     url: https://www.bilibili.com/video/BV1Qf4y1T7Hx
+categories: 后端开发
+tags: [Java, Maven, 构建工具]
 ---
 
 > Maven 是 Apache 下的一个纯 Java 开发的开源项目。基于项目对象模型（缩写：POM）概念，Maven 利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。Maven 是一个项目管理工具，可以对 Java 项目进行自动化的构建和依赖管理，也可被用于构建和管理其他语言编写的各种项目，例如 C#，Ruby，Scala。以下为我在学习和实战练习过程中所做的笔记，可供参考。

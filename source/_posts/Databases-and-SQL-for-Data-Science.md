@@ -1,8 +1,8 @@
 ---
 title: Databases and SQL for Data Science with Python
 date: 2021-02-15
-tags: [IBM Data Science]
-categories: Data Science and Analytics
+categories: 数据库
+tags: [SQL, IBM Data Science, 数据库]
 ---
 
 > Much of the world's data resides in databases, A working knowledge of databases and SQL is a must to become a data scientist. The emphasis in this course provided by IBM is on hands-on and practical learning. So, I'll try to record how I work with real databases, real data science tools, real-world datasets and eventually, how I create a database instance in the cloud on the following notes I took during this course.

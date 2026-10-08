@@ -1,8 +1,6 @@
 ---
 title: Learn NumPy & Pandas
 date: 2022-12-06
-tags: []
-categories: Data Science and Analytics
 references:
   - title: One Month Python
     url: https://onemonth.com/courses/python/
@@ -10,6 +8,8 @@ references:
     url: https://gengzhige-essay.readthedocs.io
   - title: 十分钟了解Pandas核心内容
     url: https://www.bilibili.com/video/BV1rt4y1W769
+categories: 数据分析
+tags: [Python, NumPy, Pandas]
 ---
 
 > NumPy 是 Numerical Python 的缩写，是一个开源的 Python 科学计算库，也是 SciPy、Scikit-Learn、tenorflow、paddlepaddle 等各种数据科学类库的基础库。使用 NumPy 可以方便的使用数组、矩阵进行计算。Pandas 是基于 NumPy 数组构建的，但二者最大的不同是 Pandas 是专门为处理表格和混杂数据设计的，适用于统计分析中的表结构，而 NumPy 更适合处理统一的数值数组数据。虽然在之前已经在 [Python for Data Science](/Python-for-Data-Science) 一课中学习并整理英文笔记，但我认为还是有必要对于数据处理中的基础内容、工作流程和注意事项进行详细补充。以下为我在学习和实战练习过程中所做的笔记，可供参考。

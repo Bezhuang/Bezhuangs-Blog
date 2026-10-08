@@ -1,8 +1,8 @@
 ---
 title: Creative Thinking：Techniques and Tools for Success
 date: 2020-07-10
-tags: []
-categories: 待分类
+categories: 通识与随笔
+tags: [创新思维, 软技能]
 ---
 
 > The greatest innovators aren’t necessarily the people who have the most original idea. Often, they are people- or teams- that have harnessed their creativity to develop a new perspective or more effective way of communicating an idea. You can train your imagination to seize opportunities, break away from routine and habit, and tap into your natural creativity. This course provided by IMPERIAL COLLEGE LONDON equips us with a tool-box, introducing us to a selection of behaviors and techniques that augments our innate creativity. The following are the notes I took during this class.

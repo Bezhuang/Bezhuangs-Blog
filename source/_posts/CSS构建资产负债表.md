@@ -1,11 +1,11 @@
 ---
 title: 通过构建资产负债表了解有关 CSS 伪选择器的更多信息
 date: 2022-05-31
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/2022/responsive-web-design
+categories: 前端开发
+tags: [CSS, 伪选择器, freeCodeCamp]
 ---
 
 > freeCodeCamp 响应式网页设计的认证课程第九章。可以使用 CSS 伪选择器来更改特定的 HTML 元素。在通过构建资产负债表了解有关 CSS 伪选择器的更多信息的课程中，使用伪选择器构建资产负债表，学习如何在将鼠标悬停在元素上时更改其样式，并触发网页上的其他事件。以下为我在学习和实战练习过程中所做的笔记，可供参考。

@@ -1,11 +1,11 @@
 ---
 title: C# 101
 date: 2023-04-09
-tags: []
-categories: 待分类
 references:
   - title: C# 101
     url: https://learn.microsoft.com/zh-cn/shows/csharp-101/?wt.mc_id=educationalcsharp-c9-scottha
+categories: 编程语言
+tags: [C#, 编程语言]
 ---
 
 > C# 是一种强大而广泛使用的编程语言，基于面向对象的原则，融合了其他范例中的许多功能，尤其是函数编程，你可以用它来制作网站、游戏、移动应用程序、桌面应用程序等等。C# 也是 .NET 编程平台的一部分，大多数 .NET 运行时和库都是用 C# 编写的，微软提供了 C# for beginners 课程（101、201）为初学者提供引导，以下为我在学习第一门课程过程中所做的笔记，可供参考。

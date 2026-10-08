@@ -1,8 +1,8 @@
 ---
 title: Sport-Related Concussion Training
 date: 2020-04-20
-tags: []
-categories: 待分类
+categories: 数据分析
+tags: [IBM Data Analyst, 通识]
 ---
 
 > Some common sports injuries can occur when engaging in confrontational sports like basketball, therefore it's important to have some knowledge of avoiding and dealing with them. The Michigan Sport-Related Concussion Training Certification satisfies the state-mandated requirement for concussion training in the state of Michigan and can be helpful under certain circumstances. The following are the notes I took during this course.

@@ -1,11 +1,11 @@
 ---
 title: 前端开发库 Sass
 date: 2022-08-11
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/front-end-development-libraries/
+categories: 前端开发
+tags: [Sass, CSS]
 ---
 
 > freeCodeCamp 前端开发库第三章。Sass，英文全称为 “Syntactically Awesome StyleSheets”，是对 CSS 的扩展。它添加了一些基础 CSS 中不具有的新特性。Sass 简化了 CSS，这让维护项目中的样式表变得更容易。在这个 Sass 课程中，学习如何将数据存储在变量中、嵌套 CSS、创建可重用的样式、为样式添加逻辑和循环等等。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -236,4 +236,3 @@ Sass 有一个名为 `extend` 的功能，可以很容易地从一个元素中�
 ```
 
 除了新样式之外，`.big-panel` 将具有与 `.panel` 相同的属性。
-

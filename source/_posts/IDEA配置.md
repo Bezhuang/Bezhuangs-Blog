@@ -1,8 +1,8 @@
 ---
 title: IntelliJ IDEA 的配置与使用总结
 date: 2021-05-20
-tags: []
-categories: Java
+categories: 工具与运维
+tags: [IDEA, 开发工具, Java]
 ---
 
 > IntelliJ IDEA 被公认为是最好的 Java 开发工具之一，尤其在智能代码助手、代码自动提示、重构、J2EE 支持、Ant、JUnit、CVS 整合、代码审查、创新的GUI 设计等方面的功能可以说是超常的。相较于 Eclipse 而言，IDEA 增加了强大的整合能力、好用的快捷键和代码模板以及精准搜索，一些新的特性非常有必要学习熟悉。我目前使用的是 IDEA Ultimate 2021.2 版本，本篇笔记也是对最新版 IDEA 项目的创建、模板的使用、断点调试、数据库的关联、插件的下载、Maven及版本控制工具的配置等内容的一些总结。

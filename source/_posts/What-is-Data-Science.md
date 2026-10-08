@@ -1,8 +1,8 @@
 ---
 title: What is Data Science?
 date: 2021-05-02
-tags: []
-categories: Data Science and Analytics
+categories: 数据分析
+tags: [IBM Data Science, 数据科学]
 ---
 
 > The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. This course provided by IBM gives me a chance to get an overview of what data science is today. The following are the notes I took during this course.
@@ -112,4 +112,3 @@ The length and content of the final report will vary depending on the needs of t
 The structure of the final report for a Data Science project should include a cover page, table of contents, executive summary, detailed contents, acknowledgements, references and appendices.
 
 The report should present a thorough analysis of the data and communicate the project findings.
-

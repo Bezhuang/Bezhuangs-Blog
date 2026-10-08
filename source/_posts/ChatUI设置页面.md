@@ -1,11 +1,11 @@
 ---
 title: ChatUI-React 设置页面
 date: 2022-11-08
-tags: [ChatUI]
-categories: Front-End Development
 references: 
   - title: React 即时通信 UI 实战
     url: https://study.163.com/course/courseMain.htm?courseId=1210022809&share=1&shareId=1030428673
+categories: 前端开发
+tags: [ChatUI, React, 组件开发]
 ---
 
 > React 即时通信 UI 实战第八章。React 即时通信 UI 实战为[峰华前端工程师](https://www.bilibili.com/video/BV1PK4y1b7bY?p=2&spm_id_from=pageDriver&vd_source=0965c74096f788f105780e5d5d0e9ebf)推出的 React 实战课程，以聊天（即时通信）为原型，构建了一整套的 UI 组件库，课程重点在于 UI 组件的分析和实现，力求打造自用组件库。本章包括设置页面中的 InputText、Select（表单）、Radio、Switch 开关等组件。以下为我在学习和实战练习过程中所做的笔记，可供参考。

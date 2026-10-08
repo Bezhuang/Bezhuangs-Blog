@@ -1,11 +1,11 @@
 ---
 title: 前端开发库 React
 date: 2022-08-15
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/front-end-development-libraries/
+categories: 前端开发
+tags: [React, JavaScript]
 ---
 
 > freeCodeCamp 前端开发库第四章。React 是一个由 Facebook 创建和维护的开源 JavaScript 视图库，用于为网页或应用程序构建可重用的组件驱动的用户界面。React 将 HTML 与 JavaScript 结合在了一起，以此创建出一个新的标记语言 JSX。React 还使得管理整个应用程序的数据流变得更容易。在 React 课程中，学习如何创建不同的 React 组件，以 state props 管理数据，以及使用不同的生命周期方法（例如 `componentDidMount`）等。以下为我在学习和实战练习过程中所做的笔记，可供参考。

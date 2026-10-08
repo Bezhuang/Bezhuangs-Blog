@@ -1,11 +1,11 @@
 ---
 title: Java 实现银行 ATM 系统
 date: 2022-02-05
-tags: []
-categories: Java
 references:
   - title: Java入门基础视频教程
     url: https://www.bilibili.com/video/BV1Cv411372m
+categories: 后端开发
+tags: [Java, 面向对象, 项目实践]
 ---
 
 > 在复习完 Java SE 的全部基础知识点后，为了更加熟练掌握 Java 面向对象的特性，进一步掌握编程技巧和调试技巧，使用 Java 模拟实现一个银行 ATM 系统软件，共 Account.java 和 ATM.java 两个 Java 类。以下为部分代码设计和实现，可供参考。
@@ -562,4 +562,3 @@ public static void login(ArrayList<Account> accounts) {…}
         }
     }
 ```
-

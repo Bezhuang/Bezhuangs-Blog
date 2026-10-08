@@ -1,13 +1,13 @@
 ---
 title: JavaScript 基础知识总结
 date: 2020-10-05
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
   - title: learn x in y minutes
     url: https://learnxinyminutes.com/docs/zh-cn/javascript-cn/
+categories: 前端开发
+tags: [JavaScript, 基础语法]
 ---
 
 > JavaScript 是一门跨平台、面向对象的脚本语言，它能使网页可交互，可以让你在网页上添加更多功能，另外还有高级的服务端 JavaScript 版本，在 web 浏览器中，JavaScript 能够通过其所连接的环境提供的编程接口进行控制。在之前我已经简单总结了[HTML5/CSS3的必会知识点](/HTML和CSS基础)，为 Javascript 学习打下基础。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -1399,4 +1399,3 @@ alert(flag);
 </body>
 </html>
 ```
-

@@ -1,11 +1,11 @@
 ---
 title: Git 操作指令总结
 date: 2020-04-13
-tags: []
-categories: 待分类
 references:
   - title: Git 教程
     url: https://www.liaoxuefeng.com/wiki/896043488029600/
+categories: 工具与运维
+tags: [Git, 版本控制]
 ---
 
 > Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件，是目前世界上最先进的分布式版本控制系统。Git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分布式版本库的方式，不必服务器端软件支持。Git 指令操作简单易上手。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -218,6 +218,4 @@ rebase 的目的是使得我们在查看历史提交的变化时更容易，因�
 要方便管理公钥，用 [Gitosis](https://github.com/sitaramc/gitolite)。
 
 要像 SVN 那样变态地控制权限，用 [Gitolite](https://github.com/sitaramc/gitolite)。
-
-
 

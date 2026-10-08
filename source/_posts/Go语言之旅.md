@@ -1,8 +1,8 @@
 ---
 title: Go 语言基础知识总结
 date: 2022-02-13
-tags: []
-categories: 待分类
+categories: 编程语言
+tags: [Go, 编程语言]
 ---
 
 > Go 语言是 Google 开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言，它用批判吸收的眼光，融合 C 语言、Java 等众家之长，将简洁、高效演绎得淋漓尽致。Golang非常适合用来做网络并发方面的服务，比如消息推送、监控、容器等。初次学习我选择的是 [Go 编程语言](https://go-zh.org/)指南，指南涵盖了该语言的大部分重要特性，放在以下所记笔记中，另附有随堂代码放在 [Github 仓库](https://github.com/Bezhuang/Learn-CS/tree/main/Learn%20Programming/Go%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%97%85)中，可供参考。

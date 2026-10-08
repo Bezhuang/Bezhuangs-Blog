@@ -1,11 +1,11 @@
 ---
 title: 搭建 LAMP 环境安装部署 Wordpress
 date: 2021-05-01
-tags: []
-categories: 待分类
 references:
   - title: 基于ECS搭建云上博客
     url: https://developer.aliyun.com/adc/scenario/fdecd528be6145dcbe747f0206e361f3
+categories: 工具与运维
+tags: [WordPress, LAMP, 阿里云]
 ---
 
 > 最近购买了阿里云学生机（轻量应用服务器，单核2G内存），预装载 CentOS 7.6。官方推荐 Putty 连接，我使用的 SSH 软件为 Xshell，用 Xftp 传输文件。第一次接触云服务器，在云主机上搭建 LAMP 环境并部署 Wordpress 博客应用，以下为我总结的一些操作步骤和流程，仅供测试参考。

@@ -1,8 +1,8 @@
 ---
 title: Introduction to Data Analytics
 date: 2021-01-24
-tags: [IBM Data Science]
-categories: Data Science and Analytics
+categories: 数据分析
+tags: [IBM Data Analyst, 数据分析]
 ---
 
 > The Introduction to Data Analytics course provided by IBM is the first in a series of courses designed to prepare me for a career as a junior data analyst. The course introduces me to the core concepts, processes, and tools I need to gain entry into data analytics. The following are the notes I took during this course.

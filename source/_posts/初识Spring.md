@@ -1,13 +1,13 @@
 ---
 title: 初识 Spring
 date: 2022-08-22
-tags: []
-categories: Java
 references:
   - title: 黑马程序员2022新版SSM框架教程
     url: https://www.bilibili.com/video/BV1Fi4y1S7ix
   - title: 玩转 Spring 全家桶
     url: https://time.geekbang.org/course/intro/156
+categories: 后端开发
+tags: [Java, Spring]
 ---
 
 > 大部分 Java 后端程序员在日常工作中都会接触到 Spring ，Spring 早已成为 Java 后端开发事实上的行业标准，因此，如何用好 Spring ，也就成为 Java 程序员的必修课之一。我在去年[阿里云开发者社区的 Java 训练营](/Java高级训练营/)中就接触过 Spring，但是仍然需要系统学习搞懂 Spring 相关的核心功能和实现原理。本文是 Spring 学习第一章——初识 Spring 的笔记。
@@ -119,4 +119,3 @@ curl http://localhost:8080/actuator/health
 
 </project>
 ```
-

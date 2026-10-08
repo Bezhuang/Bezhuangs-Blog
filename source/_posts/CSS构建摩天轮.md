@@ -1,11 +1,11 @@
 ---
 title: 通过构建摩天轮学习 CSS 动画
 date: 2022-06-19
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/2022/responsive-web-design
+categories: 前端开发
+tags: [CSS, 动画, freeCodeCamp]
 ---
 
 > freeCodeCamp 响应式网页设计的认证课程第十五章。你可以使用 CSS 动画将注意力吸引到网页的特定部分并使其更具吸引力。在通过构建摩天轮学习 CSS 动画的课程中，建造一个摩天轮，学习如何使用 CSS 为元素设置动画、转换它们并调整它们的速度。以下为我在学习和实战练习过程中所做的笔记，可供参考。

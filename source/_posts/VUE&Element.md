@@ -1,11 +1,11 @@
 ---
 title: Vue 和 Element UI 快速入门
 date: 2022-04-30
-tags: []
-categories: Java
 references: 
   - title: Java web从入门到企业实战
     url: https://www.bilibili.com/video/BV1Qf4y1T7Hx
+categories: 前端开发
+tags: [Vue, Element UI]
 ---
 
 > Java Web 核心第七章。Vue 是一套前端框架，免除原生 JavaScript 中的 DOM 操作，简化书写。我们之前也学习过后端的框架 `Mybatis` ，`Mybatis` 是用来简化 `jdbc` 代码编写的；而 `VUE` 是前端的框架，是用来简化 `JavaScript` 代码编写的。Element 是饿了么公司前端开发团队提供的一套基于 Vue 的网站组件库，用于快速构建网页。Element 提供了很多组件（组成网页的部件）供我们使用，例如超链接、按钮、图片、表格等。以下为我在学习和实战练习过程中所做的笔记，可供参考。

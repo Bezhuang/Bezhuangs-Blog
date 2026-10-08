@@ -1,11 +1,11 @@
 ---
 title: macOS + Ubuntu 实现远程开发配置
 date: 2022-03-06
-tags: []
-categories: 待分类
 references:
   - title: 《LNMP环境镜像使用手册》
     url: https://oneinstack.com/docs/lnmpstack-image-guide/
+categories: 工具与运维
+tags: [Ubuntu, 阿里云, 远程开发]
 ---
 
 > 刚刚续费了一年的阿里云轻量应用服务器，打算把大多数的开发环境放到服务器上，实现远程开发。我使用的是 macOS Monterey 和基于 Ubuntu 18.04 的 LNMP 镜像系统，IDE 选取 Visual Studio Code 和 IntelliJ IDEA 进行开发学习。以下为我总结的一些操作步骤和流程，可供参考。

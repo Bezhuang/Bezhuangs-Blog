@@ -1,13 +1,13 @@
 ---
 title: Selenium for Python
 date: 2022-12-01
-tags: []
-categories: 待分类
 references:
   - title: Selenium爬虫快速入门（Python版）
     url: https://www.bilibili.com/video/BV1RZ4y147zD
   - title: Selenium for Python
     url: http://selenium-python.readthedocs.io/index.html
+categories: 工具与运维
+tags: [Selenium, 爬虫, Python]
 ---
 
 > [Selenium](http://www.seleniumhq.org/) 是一个 Web 的自动化测试工具，最初是为网站自动化测试而开发的，Selenium 可以直接运行在浏览器上，它支持所有主流的浏览器。因为 Selenium 可以控制浏览器发送请求，并获取网页数据，因此可以应用于爬虫领域。Selenium 可以根据我们的指令，让浏览器自动加载页面，获取需要的数据，甚至页面截屏，或者判断网站上某些动作是否发生。Selenium Python bindings 提供了一个简单的 API，让你使用 Python 和 Selenium WebDriver 来编写功能/校验测试。 以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -430,4 +430,3 @@ with open('baidu.png', 'wb') as f:
     # 对于图片类型的通过r.content方式访问响应内容，将响应内容写入baidu.png中
     f.write(r.content)
 ```
-

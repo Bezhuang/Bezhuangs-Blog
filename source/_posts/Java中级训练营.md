@@ -1,11 +1,11 @@
 ---
 title: 2021 阿里云 Java 训练营第二期
 date: 2021-03-21
-tags: []
-categories: Java
 references:
   - title: Spring Boot 2.5.x开发实战
     url: https://developer.aliyun.com/learning/course/71
+categories: 后端开发
+tags: [Java, 阿里云训练营]
 ---
 
 > 本期训练营是继[Java新手训练营](/Java初级训练营)后的第2期，课程由阿里云开发者社区提供，同样采用5天不间断直播授课的形式，主要内容为Spring Boot 2.5自动化配置原理、实战开发REST API、MySQL数据库、Redis高并发缓存、MQ消息队列Kafka、安全机制、Docker容器等，本篇日志主要记录实战Spring Boot2.5开发中的一些常用知识点，附[实战代码](https://github.com/Bezhuang/LearnCS/tree/main/Java中级训练营)。
@@ -196,4 +196,3 @@ references:
 ### 课程代码
 
 - 课程代码已上传 [Github 仓库](https://github.com/Bezhuang/LearnCS/tree/main/%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%80%E5%8F%91%E8%80%85%E5%AD%A6%E9%99%A2/Java%E4%B8%AD%E7%BA%A7%E8%AE%AD%E7%BB%83%E8%90%A5)
-

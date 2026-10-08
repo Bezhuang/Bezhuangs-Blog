@@ -348,8 +348,6 @@ site_footer:
     analytics:
         <div id="lc-uv"> 本站访客数：<span id='number'><i class="fas fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span> 人，</div>
         <div id="lc-sv"> 总访问量：<span id='number'><i class="fas fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span> 次 </div>
-    # site copyright
-    copyright: 沪ICP备2021008938号
     # You can add your own property here. (Support markdown, for example: br: '<br>')
     br: Copyright © 2020 - 2023 Zhihao Zhuang. All rights reserved
 ############################### Site Footer ############################### > end

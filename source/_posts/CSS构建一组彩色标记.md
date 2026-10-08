@@ -1,11 +1,11 @@
 ---
 title: 通过构建一组彩色标记来学习 CSS 颜色
 date: 2022-05-19
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/2022/responsive-web-design
+categories: 前端开发
+tags: [CSS, 颜色, freeCodeCamp]
 ---
 
 > freeCodeCamp 响应式网页设计的认证课程第三章。为你的网页选择正确的颜色可以大大提高对读者的审美吸引力。在通过构建一组彩色标记来学习 CSS 颜色的课程中，构建一组彩色标记，学习设置颜色值的不同方法以及如何将颜色相互配对。以下为我在学习和实战练习过程中所做的笔记，可供参考。

@@ -1,8 +1,8 @@
 ---
 title: Data Visualization and Dashboards with Excel and Cognos
 date: 2021-02-02
-tags: [IBM Data Science]
-categories: Data Science and Analytics
+categories: 数据分析
+tags: [IBM Data Analyst, 数据可视化, Cognos]
 ---
 
 > "A picture is worth 1,000 words". This Course provided by IBM endows me with the ability to effectively create data visualizations, such as charts or graphs, with Excel and IBM Cognos Analytics, without having to write any code. It also elevates my confidence level in creating intermediate level data visualizations after numerous hands-on labs and the final project. The following are the notes I took during this course.

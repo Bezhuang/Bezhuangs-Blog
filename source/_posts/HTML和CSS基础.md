@@ -1,13 +1,13 @@
 ---
 title: HTML 和 CSS 基础知识总结
 date: 2020-09-10
-tags: []
-categories: Front-End Development
 references: 
   - title: 前端学习路线图
     url: https://github.com/kamranahmedse/developer-roadmap
   - title: W3school
     url: https://www.w3school.com.cn/h.asp
+categories: 前端开发
+tags: [HTML, CSS]
 ---
 
 > 对于前端开发来说，最基本的知识肯定是`HTML`, `CSS`, `JavaScript`三剑客了。前端技术更新快，因此对于文档的阅读和[实际操练](https://learn.freecodecamp.one/)十分重要，基础阶段一定要打好，才能向更高峰攀登。本篇笔记是对一些我认为的 HTML5 和 CSS3 相关常用知识的总结。至于想看最全和最权威文档的朋友还是移步 [MDN web docs](https://developer.mozilla.org/zh-CN/) 吧。
@@ -660,4 +660,3 @@ CSS定位（position属性）：
 - relative：元素框偏移某个距离。
 - absolute：元素框从文档流完全删除，并相对于其包含块定位。
 - fixed：元素框的表现类似于将 position 设置为 absolute，不过其包含块是视窗本身。
-

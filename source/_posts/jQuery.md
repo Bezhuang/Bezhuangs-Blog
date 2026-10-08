@@ -1,11 +1,11 @@
 ---
 title: 前端开发库 jQuery
 date: 2022-08-06
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/front-end-development-libraries/
+categories: 前端开发
+tags: [jQuery, JavaScript]
 ---
 
 > freeCodeCamp 前端开发库第二章。jQuery 曾是开发者们最常用的 JavaScript 库之一。在 jQuery 于 2006 年发布时，各种常用浏览器处理 JavaScript 的方式都略有不同。jQuery 简化了编写客户端 JavaScript 的过程，并确保代码在所有浏览器中以同样的方式运行。在 jQuery 课程中，学习如何使用 jQuery 选择、移除、克隆和修改页面上的不同元素。以下为我在学习和实战练习过程中所做的笔记，可供参考。

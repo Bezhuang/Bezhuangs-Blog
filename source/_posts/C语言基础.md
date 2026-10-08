@@ -1,11 +1,11 @@
 ---
 title: C 语言基础知识总结
 date: 2020-08-20
-tags: []
-categories: C/C++
 references: 
   - title: C 语言教程
     url: https://www.runoob.com/cprogramming/c-tutorial.html
+categories: 编程语言
+tags: [C, 编程语言]
 ---
 
 > 1972 年，为了移植与开发 UNIX 操作系统，丹尼斯·里奇在贝尔电话实验室设计开发了 C 语言。C 语言是一种通用的、面向过程式的计算机程序设计语言，它与 Java 编程语言一样普及，二者在现代软件程序员之间都得到广泛使用。强烈推荐郝斌老师的[C语言自学教程](https://www.bilibili.com/video/BV1os411h77o)，在入门 C 语言时给了我很大的启发和帮助。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -393,4 +393,3 @@ int main(int argc, char *argv[])
 ### C 库函数
 
 [C 标准库](https://www.runoob.com/cprogramming/c-standard-library.html)是一组 C 内置函数、常量和头文件，比如 `<stdio.h>`、`<stdlib.h>`、`<math.h>`，等等。
-

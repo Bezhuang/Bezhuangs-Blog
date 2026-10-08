@@ -1,11 +1,11 @@
 ---
 title: 通过编写咖啡店菜单学习基础 CSS
 date: 2022-05-17
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/2022/responsive-web-design
+categories: 前端开发
+tags: [CSS, 基础语法, freeCodeCamp]
 ---
 
 > freeCodeCamp 响应式网页设计的认证课程第二章。CSS 负责告诉浏览器如何展示你的网页。你可以使用 CSS 设置 HTML 元素的颜色、字体、大小等属性。在通过编写咖啡店菜单学习基础 CSS 课程中，通过为一个咖啡店网站设计菜单页来学习 CSS。以下为我在学习和实战练习过程中所做的笔记，可供参考。

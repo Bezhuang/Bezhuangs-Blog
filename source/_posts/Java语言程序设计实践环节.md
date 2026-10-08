@@ -1,11 +1,11 @@
 ---
 title: Java 语言程序设计实践性环节
 date: 2022-10-30
-tags: []
-categories: Computer Science
 references: 
   - title: 《Java语言程序设计》实践性环节考核大纲
     url: https://ce.sjtu.edu.cn/Home/Tz/859
+categories: 后端开发
+tags: [Java, 实践环节]
 ---
 
 > Java 语言程序设计实践环节（04748）是 Java 语言程序设计（一）专业课的上级测试部分，考核目标是掌握调试、完善和简单设计 Java 程序的能力、掌握 MyEclipse 开发工具的使用（新建项目，新建类，修改与运行程序）、掌握 Java 的基本语句，基本输入输出流、掌握使用类及方法进行 Java 面向对象程序开发的方法。运行环境是 Windows 10 系统下的 MyEclipse 软件。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -460,4 +460,3 @@ public class Exp4_1 {
     }
 }
 ```
-

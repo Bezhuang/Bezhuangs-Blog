@@ -1,13 +1,13 @@
 ---
 title: Python 基础知识总结
 date: 2020-10-11
-tags: []
-categories: 待分类
 references:
   - title: Python教程
     url: https://www.liaoxuefeng.com/wiki/1016959663602400
   - title: Python 基础教程
     url: https://www.bilibili.com/video/BV1hW41197sB
+categories: 编程语言
+tags: [Python, 编程语言]
 ---
 
 > Python 是由 Guido van Rossum 在八十年代末和九十年代初，在荷兰国家数学和计算机科学研究所设计的一个高层次的结合了解释性、编译性、互动性和面向对象的脚本语言。Python 的设计具有很强的可读性，相比其他语言经常使用英文关键字，其他语言的一些标点符号，它具有比其他语言更有特色语法结构。以下为我在学习和实战练习过程中所做的笔记，可供参考。

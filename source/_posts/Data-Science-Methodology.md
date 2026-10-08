@@ -1,8 +1,8 @@
 ---
 title: Data Science Methodology
 date: 2021-05-30
-tags: [IBM Data Science]
-categories: Data Science and Analytics
+categories: 数据分析
+tags: [IBM Data Science, 方法论]
 ---
 
 > Despite the recent increase in computing power and access to data over the last couple of decades, our ability to use the data within the decision making process is either lost or not maximized at all too often, we don't have a solid understanding of the questions being asked and how to apply the data correctly to the problem at hand. This course provided by IBM shares a methodology that can be used within data science, to ensure that the data used in problem solving is relevant and properly manipulated to address the question at hand. The following are the notes I took during this course.
@@ -103,4 +103,3 @@ Feedback
 - Refine model: Review and refine intervention actions
 - Redeployment: Continue modeling, deployment, feedback and refinement throughout the life of the Intervention program
 - The data science methodology is highly iterative, ensuring the refinement at each stage in the game
-

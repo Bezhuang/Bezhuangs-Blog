@@ -1,11 +1,11 @@
 ---
 title: Nginx 反向代理
 date: 2023-05-14
-tags: []
-categories: 待分类
 references:
   - title: nginx一小时入门精讲课程
     url: https://www.bilibili.com/video/BV1rG4y1e7BQ
+categories: 工具与运维
+tags: [Nginx, 反向代理, 服务器]
 ---
 
 > Nginx 是一款轻量级的 Web 服务器、反向代理服务器，由于它的内存占用少，启动极快，高并发能力强，在互联网项目中广泛应用。为了方便学习和测试，我使用的是 Ubuntu + [MySQL](https://blog.csdn.net/hwx865/article/details/90287715) + [OpenJDK](https://blog.csdn.net/qq_40492048/article/details/114389875) 华为云环境，以下为我总结的一些操作步骤和流程，仅供测试参考。

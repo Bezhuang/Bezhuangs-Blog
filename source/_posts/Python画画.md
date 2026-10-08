@@ -1,11 +1,11 @@
 ---
 title: 使用 Python 程序画画
 date: 2020-06-01
-tags: []
-categories: 待分类
 references:
   - title: Posts from Ankur Gajurel
     url: https://copyassignment.com/author/ankur/
+categories: 编程语言
+tags: [Python, turtle 库]
 ---
 
 > turtle 库是 Python 的标准库之一，属于入门级的图形绘制函数库，其原理是让一只海龟在画布上游走，走过的轨迹形成了绘制的图形，海龟由程序控制，可以自由改变颜色、方向宽度等。我们也可以依赖这个库完成一些简单的画画，以下为一些经典图像的代码实现笔记，可供参考。
@@ -944,4 +944,3 @@ fucksisu1.penup()
 fucksisu1.goto(300, 300)
 turtle.done()
 ```
-

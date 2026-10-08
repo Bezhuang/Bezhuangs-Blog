@@ -1,11 +1,11 @@
 ---
 title: 通过编写猫咪相册应用学习 HTML
 date: 2022-05-15
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/2022/responsive-web-design
+categories: 前端开发
+tags: [HTML, freeCodeCamp]
 ---
 
 > freeCodeCamp 响应式网页设计的认证课程第一章。HTML 标签赋予了网页结构。你可以使用 HTML 标签添加照片、按钮和其它元素到你的网页。在通过编写猫咪相册应用学习 HTML 的课程中，通过编写一个猫咪相册应用，学习最常见的 HTML 标签。以下为我在学习和实战练习过程中所做的笔记，可供参考。

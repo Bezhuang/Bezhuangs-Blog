@@ -1,11 +1,11 @@
 ---
 title: 前端开发库 Bootstrap
 date: 2022-08-04
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/front-end-development-libraries/
+categories: 前端开发
+tags: [Bootstrap, CSS]
 ---
 
 > freeCodeCamp 前端开发库第一章。Bootstrap 一个是用于设计响应性网页和应用程序的前端框架。它对网页开发采用移动优先的方法，具有预定义的 CSS 样式和 class，以及一些 JavaScript 功能。在 Bootstrap 课程中，学习如何使用 Bootstrap 来构建响应式网页，并使用它的 class 来设置按钮、图像、表格、导航和其他常见元素的样式。以下为我在学习和实战练习过程中所做的笔记，可供参考。

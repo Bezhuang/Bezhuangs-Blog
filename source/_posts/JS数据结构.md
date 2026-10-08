@@ -1,11 +1,11 @@
 ---
 title: JavaScript 基础数据结构
 date: 2022-07-07
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+categories: 前端开发
+tags: [JavaScript, 数据结构, freeCodeCamp]
 ---
 
 > freeCodeCamp JavaScript 算法和数据结构第五章。我们可以通过多种方式存储和访问数据，例如数组和对象，都是常见的 JavaScript 数据结构。在基础数据结构课程中，更深入地了解数组和对象之间的差异，以及在不同情况下应该使用哪个，学习一些好用的 JS 方法，例如 `splice()`，以及使用 `Object.keys()` 来访问和操作数据。以下为我在学习和实战练习过程中所做的笔记，可供参考。
@@ -255,4 +255,3 @@ function getArrayOfUsers(obj) {
   	return Object.keys(obj);	
 }    // 返回一个由输入对象中的所有属性所组成的数组。
 ```
-

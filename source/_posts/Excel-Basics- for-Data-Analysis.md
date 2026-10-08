@@ -1,8 +1,8 @@
 ---
 title: Excel Basics for Data Analysis
 date: 2021-01-31
-tags: [IBM Data Science]
-categories: Data Science and Analytics
+categories: 数据分析
+tags: [IBM Data Analyst, Excel]
 ---
 
 > Excel is an essential tool for working with data - whether for business, marketing, data analytics, or research. Throughout this course provided by IBM, I've gained valuable experience in cleansing and wrangling data using functions and then analyze data using techniques like filtering, sorting and creating pivot tables. The following are the notes I took during this course. 

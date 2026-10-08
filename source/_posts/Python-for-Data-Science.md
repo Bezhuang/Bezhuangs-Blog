@@ -1,8 +1,8 @@
 ---
 title: Python for Data Science, AI & Development
 date: 2021-02-04
-tags: [IBM Data Science]
-categories: Data Science and Analytics
+categories: 数据分析
+tags: [IBM Data Science, Python]
 ---
 
 > This course provided by IBM will not teach everything about Python, but it gives me the tools to work as a data scientist and enough knowledge to continue to expand Python learning. The following are the notes I took during this course. Since that I've learned [Python for everybody](/py4e-code) on Coursera before, so this note will only contain the necessary outlines and newly learned content.

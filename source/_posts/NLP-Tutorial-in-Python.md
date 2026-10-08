@@ -1,11 +1,11 @@
 ---
 title: 初学使用 Python 库进行自然语言处理
 date: 2023-02-10
-tags: []
-categories: Artificial Intelligence
 references:
   - title: Complete Natural Language Processing (NLP) Tutorial in Python! (with examples)
     url: https://www.youtube.com/watch?v=M7SWr5xObkA
+categories: 人工智能
+tags: [NLP, Python]
 ---
 
 > 最近，自然语言处理工具 [ChatGPT](https://chat.openai.com/chat) 彻底出圈火爆全网，显然自然语言处理和深度学习将是下一步人工智能发展的趋势之一。于是，我尝试跟着 MIT 大神 [Keith Galli](https://www.youtube.com/@KeithGalli) 的 [Tutorial](https://www.youtube.com/watch?v=M7SWr5xObkA) 一起，初学使用 Python 库进行自然语言处理，在一个个例子中深入了解自然语言处理的主要概念。以下为我在学习和实战练习过程中所做的笔记，可供参考。

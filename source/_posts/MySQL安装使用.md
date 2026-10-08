@@ -1,8 +1,8 @@
 ---
 title: MySQL 的安装和使用
 date: 2020-09-01
-tags: []
-categories: 待分类
+categories: 数据库
+tags: [MySQL, 数据库]
 ---
 
 > MySQL 是目前应用最广泛的开源关系数据库，在学习完 [SQL 语言基础](/SQL基础)后，需要使用 MySQL 进行学习、开发、测试，部署，本篇笔记是我对 MySQL 的安装和使用的记录，可供参考。

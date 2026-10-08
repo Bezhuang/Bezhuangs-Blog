@@ -1,8 +1,8 @@
 ---
 title: Getting Started with RStudio
 date: 2022-12-08
-tags: []
-categories: 待分类
+categories: 数据分析
+tags: [R, RStudio, 数据分析]
 ---
 
 > Getting Started with RStudio is a project-based course provided by [Coursera Project Network](https://www.coursera.org/learn/getting-started-rstudio/). It aims to focus on three learning objectives: Install R and RStudio on desktop, or use the new cloud-based solution that allows anyone to learn R,  know the 10 most important things that 99% of R programmers should know about the RStudio IDE Interface and Be able to explain what R packages are, how to install and load them, from CRAN and Github, into the R session, and create interactive HTML widgets. The following are the notes I took during this course.

@@ -1,9 +1,9 @@
 ---
 title: Data Science Math Skills
 date: 2020-05-25
-tags: []
-categories: Data Science and Analytics
 mathjax: true
+categories: 数学基础
+tags: [Duke University, 数学, 数据科学]
 ---
 
 > Data Science Math Skills course provided by DUKE UNIVERSITY is designed to teach the vocabulary, notation, concepts, and algebra rules that all data scientists must know before moving on to more advanced material. The following are the notes I took during this course.

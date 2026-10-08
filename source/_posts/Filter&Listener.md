@@ -1,12 +1,12 @@
 ---
 title: Filter 和 Listener
 date: 2022-04-27
-tags: []
-categories: Java
 references: 
   - title: Java web从入门到企业实战
     url: https://www.bilibili.com/video/BV1Qf4y1T7Hx
 
+categories: 后端开发
+tags: [Java, Servlet, Web 开发]
 ---
 
 > Java Web 核心第五章。Filter 和 Listener 是 JavaWeb 三大组件（Servlet、Filter、Listener）的另两个组成部分。Filter 表示过滤器，可以把对资源的请求拦截下来，从而实现一些特殊的功能。Listener 监听器可以监听就是在 `application`，`session`，`request` 三个对象创建、销毁或者往其中添加修改删除属性时自动执行代码的功能组件。 `application` 是 `ServletContext` 类型的对象。`ServletContext` 代表整个 web 应用，在服务器启动的时候，tomcat 会自动创建该对象，在服务器关闭时会自动销毁该对象。以下为我在学习和实战练习过程中所做的笔记，可供参考。

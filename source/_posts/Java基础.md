@@ -1,11 +1,11 @@
 ---
 title: Java 基础编程总结
 date: 2021-06-20
-tags: []
-categories: Java
 references:
   - title: Java基础 - lsqstudy
     url: https://blog.csdn.net/PorkBird/article/details/113666542
+categories: 后端开发
+tags: [Java, 面向对象]
 ---
 
 > Java 语言是 SUN (Stanford University Network) 公司于1995年推出的一门高级编程语言，舍弃了 C 语言中容易引起错误的指针（以引用取代）、运算符重载（operator overloading）、多重继承 （以接口取代）等特性，增加了垃圾回收器等功能，具有面向对象、健壮性、跨平台性等特性。我选择的 Java课程为[尚学堂 Java 零基础入门教程](https://www.bilibili.com/video/BV1Kb411W75N)，但由于我个人不是零基础入门，所以这篇笔记不含编程入门和语言概述，仅包含 Java 基础编程知识的总结。

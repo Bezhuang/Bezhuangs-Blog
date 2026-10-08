@@ -1,8 +1,6 @@
 ---
 title: Requests 和 cURL
 date: 2022-09-05
-tags: []
-categories: 待分类
 references: 
   - title: 技术蛋老师
     url: https://space.bilibili.com/327247876
@@ -10,6 +8,8 @@ references:
     url: https://www.ruanyifeng.com/blog/2011/09/curl.html
   - title: requests库的使用
     url: https://www.jb51.net/article/236832.htm
+categories: 工具与运维
+tags: [HTTP, Python, 网络请求]
 ---
 
 > 在开发过程中，我们常常需要和各种 API 打交道，cURL 和 Requests 都是很实用的 HTTP 客户端（库），[curl](https://curl.haxx.se/) 是一种命令行工具，作用是发出网络请求，然后得到和提取数据，显示在"标准输出"（stdout）上面。requests 是 Python 语言的第三方的库，专门用于发送 HTTP 请求，使用起来比 urllib 简洁很多。另外，关于 HTTP 协议的格式也可以参照[这篇笔记](/HTTP&Servlet)。以下为我在学习和实战练习过程中所做的总结，可供参考。
@@ -372,4 +372,3 @@ except HTTPError:
 except RequestException:
     print('reqerror')
 ```
-

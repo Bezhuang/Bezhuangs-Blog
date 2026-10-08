@@ -1,11 +1,11 @@
 ---
 title: 通过创作罗斯科绘画学习 CSS 盒子模型
 date: 2022-05-23
-tags: []
-categories: Front-End Development
 references: 
   - title: freeCodeCamp
     url: https://chinese.freecodecamp.org/learn/2022/responsive-web-design
+categories: 前端开发
+tags: [CSS, 盒子模型, freeCodeCamp]
 ---
 
 > freeCodeCamp 响应式网页设计的认证课程第五章。每个 HTML 元素都是一个盒子，它拥有着自己的间距和边框，这叫作盒子模型。在通过创作罗斯科绘画学习 CSS 盒子模型的课程中，使用 CSS 和盒子模型，创作属于自己的罗斯科风格的矩形艺术作品。以下为我在学习和实战练习过程中所做的笔记，可供参考。
